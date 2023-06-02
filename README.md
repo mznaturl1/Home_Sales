@@ -8,7 +8,7 @@
 
 - What is the average price of a home for each year it was built that has three bedrooms and three bathrooms? Round answer to two decimal places.
 
-![Alt text](Images/avg%20price%203bd_3ba.png) ![Alt text](Images/avg%20price%204bdrm.png)
+![Alt text](Images/avg%20price%203bd_3ba.png)
 
 - What is the average price of a home for each year that has three bedrooms, three bathrooms, two floors, and is greater than or equal to 2,000 square feet? Round answer to two decimal places. 
 
